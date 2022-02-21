@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm eastasian</h1>
 <h3 align="center">a web developer from Japan.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reactboy" alt="reactboy" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/eastasiann" target="blank"><img src="https://img.shields.io/twitter/follow/eastasiann?logo=twitter&style=for-the-badge" alt="eastasiann" /></a> </p>
 
 - 🌱 I’m currently learning **Django, solidity.**
